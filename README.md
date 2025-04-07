@@ -3,7 +3,6 @@
 >📅31 - 4.04.2025\
 >📎 By Deutsche Telekom IT & Telecommunications
 
+**🏆 Ranked 26th out of 81**
 I participated in coder games 2025, here are my solutions!\
 \
-⭐**Find Tasks Here:**
-> https://codergames.deutschetelekomitsolutions.sk/coderfest-2024
