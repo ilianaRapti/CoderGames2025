@@ -5,4 +5,3 @@
 
 **🏆 Ranked 26th out of 81**
 I participated in coder games 2025, here are my solutions!\
-\
